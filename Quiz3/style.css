@@ -1,0 +1,56 @@
+@media only screen and (min-width: 75.000em){
+    .colxl{
+        float:left;
+        width: 65%;
+    }
+    .col:last-child{
+        float:none;
+        width:auto;
+    }
+}
+@media only screen and (min-width: 62.500em){
+    .collg{
+        float:left;
+        width:65%;
+    }
+    .col:last-child{
+        float:none;
+        width:auto;
+    }
+}
+@media only screen and (min-width: 50em){
+    .colmd{
+        float:left;
+        width:50%;
+    }
+    .col:last-child{
+        float:none;
+        width:auto;
+    }
+}
+@media only screen and (min-width: 37.500em){
+    .colsm{
+        float:left;
+        width: 15%;
+    }
+    .col:last-child{
+        float:none;
+        width:auto;
+    }
+}
+@media only screen and (min-width: 25.000em){
+    .colxs{
+        float:left;
+        width: 25%;
+    }
+    .col:last-child{
+        float:none;
+        width:auto;
+    }
+}
+img{
+    display: block;width: 65%;
+}
+figure{
+    margin: 0;
+}
